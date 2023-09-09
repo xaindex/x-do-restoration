@@ -1,6 +1,6 @@
 ## X-Do Restoration
 
-PyTorch implementation of the paper **[Simple Baselines for Image Restoration (ECCV2022)](https://arxiv.org/abs/2204.04676)**
+X-Do Restoration is a generative model implemented in PyTorch based on the article **[Simple Baselines for Image Restoration (ECCV2022)](https://arxiv.org/abs/2204.04676)**
 
 #### [Xaindex.ai](https://xaindex.ai)
 
